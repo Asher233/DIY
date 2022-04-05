@@ -1,10 +1,14 @@
-/*
-‼️规则完全免费，仅供学习交流，🈲️商业用途
-*/
+/***********************************
+
+[rewrite_local]
+
+> SSA丝社
+^https://www.ssalegs.store/cms/Appapi/username/username url script-response-body https://raw.githubusercontent.com/Asher233/DIY/main/SSA.js
 
 [mitm] 
-hostname=appraven.net
+hostname = www.ssalegs.store
 
+***********************************/
 
 var body = $response.body;
 var url = $request.url;
