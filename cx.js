@@ -1,3 +1,10 @@
+/***********************************
+
+# > 财新 hostname = mappsv5.caixin.com
+https://mappsv5.caixin.com/articlev5/* url script-response-body https://raw.githubusercontent.com/Asher233/Loon/main/cx.js
+
+***********************************/
+
 re('isPay > 0','isPay <= 0')
 
 function re() {
