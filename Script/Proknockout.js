@@ -1,7 +1,7 @@
 /***********************************
 
 # > Proknockout hostname = buy.itunes.apple.com
-^https:\/\/buy\.itunes\.apple\.com\/verifyReceipt url script-response-body verify_receipt.js
+^https:\/\/buy\.itunes\.apple\.com\/verifyReceipt url script-response-body https://raw.githubusercontent.com/Asher233/DIY/main/Script/Proknockout.js
 
 ***********************************/
 
