@@ -1,7 +1,7 @@
 /***********************************
 
 # > 通用订阅解锁 hostname = buy.itunes.apple.com
-^https:\/\/buy\.itunes\.apple\.com\/verifyReceipt$ url script-response-body 
+^https:\/\/buy\.itunes\.apple\.com\/verifyReceipt$ url script-response-body https://raw.githubusercontent.com/Asher233/DIY/main/Script/sub.js
 
 ***********************************/
 
