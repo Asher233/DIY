@@ -1,6 +1,7 @@
 /***********************************
 
-# > 通用订阅解锁 hostname = api.revenuecat.com
+# > 通用订阅解锁 hostname = buy.itunes.apple.com, api.revenuecat.com
+^https:\/\/buy\.itunes\.apple\.com\/verifyReceipt$ url script-response-body https://raw.githubusercontent.com/Asher233/DIY/main/Script/sub.js
 ^https:\/\/api\.revenuecat\.com\/v1\/(subscribers|receipts) url script-response-body https://raw.githubusercontent.com/Asher233/DIY/main/Script/subs.js
 
 ***********************************/
