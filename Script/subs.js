@@ -1,7 +1,7 @@
 /***********************************
 
 # > 通用订阅解锁 hostname = api.revenuecat.com
-^https:\/\/api\.revenuecat\.com\/v1\/(subscribers|receipts) url script-response-body 
+^https:\/\/api\.revenuecat\.com\/v1\/(subscribers|receipts) url script-response-body https://raw.githubusercontent.com/Asher233/DIY/main/Script/subs.js
 
 ***********************************/
 
