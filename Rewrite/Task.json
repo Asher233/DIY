@@ -10,8 +10,6 @@
 	"50 8,20 * * * https://raw.githubusercontent.com/leafTheFish/DeathNote/main//kfx.js, tag=卡夫享",
 	"47 8,20 * * * https://raw.githubusercontent.com/leafTheFish/DeathNote/main/jzyl.js, tag=健走有礼",
 	"42 9,18 * * * https://raw.githubusercontent.com/leafTheFish/DeathNote/main//ksfcys.js, tag=康师傅畅饮社",
-	"0,30 6-12,14-17,19-23 * * * https://raw.githubusercontent.com/leafTheFish/DeathNote/main//txs.js, tag=淘小说",
-	"3 0,8 * * * https://raw.githubusercontent.com/leafTheFish/DeathNote/main/txspfl.js, tag=腾讯视频-福利中心",
 	"36 8-22/2 * * * https://raw.githubusercontent.com/leafTheFish/DeathNote/main/zssq.js, tag=追书神器",
 	]
 }
