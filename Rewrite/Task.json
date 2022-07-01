@@ -1,6 +1,9 @@
 {
   "name": "Task",
   "task": [
+	"19 9 * * * https://raw.githubusercontent.com/danchaofan12138/danchaofan/main/ziyong/baishi/bsly.js, tag=百事乐元",
 	"16 8-20 * * * https://raw.githubusercontent.com/danchaofan12138/danchaofan/main/ziyong/doulailingjidan/dlljd.js, tag=都来领鸡蛋",
+	"20 9 * * * https://raw.githubusercontent.com/danchaofan12138/danchaofan/main/ziyong/guoquanshangcheng/gqsc.js, tag=锅圈商城",
+	"13 8,12,16,18,20 * * * https://raw.githubusercontent.com/danchaofan12138/danchaofan/main/ziyong/wangyi/wyyx.js, tag=网易严选",
 	]
 }
