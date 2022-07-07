@@ -10,7 +10,7 @@
 	"19 9 * * * https://raw.githubusercontent.com/danchaofan12138/danchaofan/main/ziyong/baishi/bsly.js, tag=百事乐元",
 	"16 8-20 * * * https://raw.githubusercontent.com/danchaofan12138/danchaofan/main/ziyong/doulailingjidan/dlljd.js, tag=都来领鸡蛋",
 	"10 9 * * * https://raw.githubusercontent.com/danchaofan12138/danchaofan/main/ziyong/guoquanshangcheng/gqsc.js, tag=锅圈商城",
-	"0 8-20/4 * * * https://raw.githubusercontent.com/danchaofan12138/danchaofan/main/ziyong/wangyi/wyyx.js, tag=网易严选",
+	"13 8,12,16,18,20 * * * https://raw.githubusercontent.com/danchaofan12138/danchaofan/main/ziyong/wangyi/wyyx.js, tag=网易严选",
 	"28 0,8,12,18 * * * https://raw.githubusercontent.com/leafTheFish/DeathNote/main/ddgy.js, tag=滴滴果园",
 	"44 7,21 * * * https://raw.githubusercontent.com/leafTheFish/DeathNote/main/gjzz.js, tag=赶集直招",
 	"50 8,20 * * * https://raw.githubusercontent.com/leafTheFish/DeathNote/main//kfx.js, tag=卡夫享",
