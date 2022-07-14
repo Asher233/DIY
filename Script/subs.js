@@ -1,7 +1,7 @@
 /***********************************
 
-# > buyhack = buy.itunes.apple.com
-https://buy.itunes.apple.com/verifyReceipt url script-response-body https://raw.githubusercontent.com/Asher233/DIY/main/Script/ProKnockout.js
+# > subs = hostname = api.revenuecat.com
+^https:\/\/api\.revenuecat\.com\/v1\/(subscribers|receipts) url script-response-body https://raw.githubusercontent.com/Asher233/DIY/main/Script/subs.js
 
 ***********************************/
 
