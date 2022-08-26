@@ -1,0 +1,37 @@
+1 = trojan, fresh.missionsec.us, 18331, password=oxcgPpS7rXEGZJ7sQe8BpbQ1LHfIKlDw
+2 = vmess, 119.36.161.40, 443, username=418048af-a293-4b99-9b0c-98ca3580dd24, tls=true, vmess-aead=false, ws=true, ws-path=/path/323127100515, sni=www.17171391.xyz, ws-headers=Host:www.17171391.xyz
+3 = trojan, editors.missionsec.us, 443, password=oxcgPpS7rXEGZJ7sQe8BpbQ1LHfIKlDw
+4 = vmess, 119.36.161.40, 443, username=418048af-a293-4b99-9b0c-98ca3580dd24, tls=true, vmess-aead=false, ws=true, ws-path=/path/323127100515, sni=www.56252413.xyz, ws-headers=Host:www.56252413.xyz
+5 = vmess, 119.36.161.40, 443, username=418048af-a293-4b99-9b0c-98ca3580dd24, tls=true, vmess-aead=false, ws=true, ws-path=/path/323127100515, sni=www.11930324.xyz, ws-headers=Host:www.11930324.xyz
+6 = vmess, 119.36.161.40, 443, username=418048af-a293-4b99-9b0c-98ca3580dd24, tls=true, vmess-aead=false, ws=true, ws-path=/path/323127100515, sni=www.13655303.xyz, ws-headers=Host:www.13655303.xyz
+7 = trojan, pride.missionsec.us, 443, password=oxcgPpS7rXEGZJ7sQe8BpbQ1LHfIKlDw
+8 = trojan, movies.missionsec.us, 18331, password=oxcgPpS7rXEGZJ7sQe8BpbQ1LHfIKlDw
+9 = vmess, 119.36.161.40, 443, username=418048af-a293-4b99-9b0c-98ca3580dd24, tls=true, vmess-aead=false, ws=true, ws-path=/path/323127100515, sni=www.75737292.xyz, ws-headers=Host:www.75737292.xyz
+10 = trojan, hacks.missionsec.us, 443, password=oxcgPpS7rXEGZJ7sQe8BpbQ1LHfIKlDw
+11 = vmess, 119.36.161.40, 443, username=418048af-a293-4b99-9b0c-98ca3580dd24, tls=true, vmess-aead=false, ws=true, ws-path=/path/323127100515, sni=www.42768395.xyz, ws-headers=Host:www.42768395.xyz
+12 = vmess, 119.36.161.40, 443, username=08fc4943-4c7a-4a69-9265-fb961eaea917, tls=true, vmess-aead=false, ws=true, ws-path=/path/323127100515, sni=www.77096318.xyz, ws-headers=Host:www.77096318.xyz
+13 = trojan, picks.missionsec.us, 443, password=oxcgPpS7rXEGZJ7sQe8BpbQ1LHfIKlDw
+14 = vmess, 119.36.161.40, 443, username=2a23dbd5-09cf-4aa8-a835-3230728c4973, tls=true, vmess-aead=false, ws=true, ws-path=/path/323127100515, sni=www.25055502.xyz, ws-headers=Host:www.25055502.xyz
+15 = trojan, books.missionsec.us, 443, password=oxcgPpS7rXEGZJ7sQe8BpbQ1LHfIKlDw
+16 = trojan, hawaii.missionsec.us, 18331, password=oxcgPpS7rXEGZJ7sQe8BpbQ1LHfIKlDw
+17 = trojan, nevada.missionsec.us, 443, password=oxcgPpS7rXEGZJ7sQe8BpbQ1LHfIKlDw
+18 = trojan, music.missionsec.us, 443, password=oxcgPpS7rXEGZJ7sQe8BpbQ1LHfIKlDw
+19 = vmess, 119.36.161.40, 443, username=418048af-a293-4b99-9b0c-98ca3580dd24, tls=true, vmess-aead=false, ws=true, ws-path=/path/323127100515, sni=www.92968827.xyz, ws-headers=Host:www.92968827.xyz
+20 = trojan, games.missionsec.us, 443, password=oxcgPpS7rXEGZJ7sQe8BpbQ1LHfIKlDw
+21 = trojan, kansas.missionsec.us, 443, password=oxcgPpS7rXEGZJ7sQe8BpbQ1LHfIKlDw
+22 = trojan, gifts.missionsec.us, 443, password=oxcgPpS7rXEGZJ7sQe8BpbQ1LHfIKlDw
+23 = vmess, 42.186.175.8, 443, username=a928a26c-2adb-45fe-e57d-8a27dade309e, tls=true, vmess-aead=true, ws=true, ws-path=/ray, sni=sgarm.ptuu.cf, ws-headers=Host:sgarm.ptuu.cf
+24 = vmess, 119.36.161.40, 443, username=3a3c8a9c-334e-4360-adb8-a80a57ddcbbf, tls=true, vmess-aead=false, ws=true, ws-path=/path/323127100515, sni=www.42429202.xyz, ws-headers=Host:www.42429202.xyz
+25 = trojan, iiiieeepppplll.zhengzhongfeizhu.xyz, 34002, password=177501cc-f0c2-3cc3-b9a7-8c1e8e27655f, sni=111-47-215-139.nhost.00cdn.com
+26 = vmess, 119.36.161.40, 443, username=418048af-a293-4b99-9b0c-98ca3580dd24, tls=true, vmess-aead=false, ws=true, ws-path=/path/323127100515, sni=www.98282587.xyz, ws-headers=Host:www.98282587.xyz
+27 = vmess, 42.186.175.8, 443, username=93503dd5-245a-4eb1-ae2a-57ab9f2b3c29, tls=true, vmess-aead=false, ws=true, ws-path=/path/323127100515, sni=www.99684777.xyz, ws-headers=Host:www.99684777.xyz
+28 = vmess, 42.186.175.8, 443, username=418048af-a293-4b99-9b0c-98ca3580dd24, tls=true, vmess-aead=false, ws=true, ws-path=/path/323127100515, sni=www.93147341.xyz, ws-headers=Host:www.93147341.xyz
+29 = vmess, 42.186.175.8, 443, username=990006bd-cb20-482f-9c97-f5fc65359605, tls=true, vmess-aead=false, ws=true, ws-path=/path/323127100515, sni=www.16885679.xyz, ws-headers=Host:www.16885679.xyz
+30 = vmess, 42.186.175.8, 443, username=ebec2adf-e940-446f-bed4-d8c91143b54a, tls=true, vmess-aead=false, ws=true, ws-path=/path/323127100515, sni=www.33371648.xyz, ws-headers=Host:www.33371648.xyz
+31 = trojan, vpss.my.to, 443, password=s1120040185
+32 = vmess, gtx20.ppy-moble.downloadmovie.cn, 26045, username=df775409-eb69-3872-8bc3-453908dd7a3e, tls=false, vmess-aead=true
+33 = trojan, hk-gz-hk-hkt-tr-b.cdn.savoy.click, 889, password=TqGiLGqoqLUssJpiIamJCpkGtxMRVJFV
+🇺🇲 US-高速1 = vmess, 154.17.23.6, 46428, username=9c51f6c9-0c71-403a-d8c3-6c3518458c23, tls=false, vmess-aead=true
+🇺🇲 US-高速2 = ss, 154.17.25.101, 61026, encrypt-method=aes-256-gcm, password=19674015
+🇭🇰 HK-高速1 = trojan, jupiter.hk.v4.hdsky.org, 443, password=87fe2d45-1714-4ebf-b9ea-28e44a60937a
+🇭🇰 HK-高速2 = trojan, neptunus.hk.v4.hdsky.org, 443, password=87fe2d45-1714-4ebf-b9ea-28e44a60937a
