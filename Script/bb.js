@@ -1,3 +1,15 @@
+/***********************************
+
+# > 不背单词 hostname = learnywhere.cn
+^https:\/\/learnywhere\.cn\/api\/bb\/buy\/vip\/purchase? url script-response-body https://raw.githubusercontent.com/Asher233/DIY/main/Script/bb.js
+^https:\/\/learnywhere\.cn\/api\/activity\/common\/bb-user-category? url script-response-body https://raw.githubusercontent.com/Asher233/DIY/main/Script/bb.js
+^https:\/\/learnywhere\.cn\/api\/bb\/buy\/wordderive\/purchase url script-response-body https://raw.githubusercontent.com/Asher233/DIY/main/Script/bb.js
+^https:\/\/learnywhere\.cn\/api\/bb\/buy\/wordderive\/purchase\/update url script-response-body https://raw.githubusercontent.com/Asher233/DIY/main/Script/bb.js
+^https:\/\/learnywhere\.cn\/api\/bb\/buy\/collins\/purchase url script-response-body https://raw.githubusercontent.com/Asher233/DIY/main/Script/bb.js
+^https:\/\/learnywhere\.cn\/api\/bb\/buy\/collins\/purchase\/update url script-response-body https://raw.githubusercontent.com/Asher233/DIY/main/Script/bb.js
+
+***********************************/
+
 const url = $request.url;
 const method = $request.method;
 const getMethod = "GET";
