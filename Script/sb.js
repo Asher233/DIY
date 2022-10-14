@@ -1,3 +1,9 @@
+/***********************************
+
+# > 扇贝单词 hostname = apiv3.shanbay.com
+^https:\/\/apiv3\.shanbay\.com\/(wordsapp\/vip\/user_item\/status|operation\/(tab_icons?|launch_screen\/future_splashes)|wordsutils\/hot_sales|abc\/applets\/applets\/burubg) url script-response-body https://raw.githubusercontent.com/Asher233/DIY/main/Script/sb.js
+
+***********************************/
 const url = $request.url;
 const method = $request.method;
 const getMethod = "GET";
