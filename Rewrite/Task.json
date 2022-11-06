@@ -10,7 +10,5 @@
 	"10 9 * * * https://raw.githubusercontent.com/danchaofan12138/danchaofan/main/ziyong/guoquanshangcheng/gqsc.js, tag=锅圈商城",
 	"13 8,12,16,18,20 * * * https://raw.githubusercontent.com/danchaofan12138/danchaofan/main/ziyong/wangyi/wyyx.js, tag=网易严选",
 	"50 8,20 * * * https://raw.githubusercontent.com/leafTheFish/DeathNote/main//kfx.js, tag=卡夫享",
-	"42 9,18 * * * https://raw.githubusercontent.com/leafTheFish/DeathNote/main//ksfcys.js, tag=康师傅畅饮社",
-	"42 9,18 * * * https://raw.githubusercontent.com/ClydeTime/Quantumult/main/Script/Task/TieBa.js, tag=1康师傅畅饮社",
 	]
 }
