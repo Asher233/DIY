@@ -10,5 +10,6 @@
 	"10 9 * * * https://raw.githubusercontent.com/danchaofan12138/danchaofan/main/ziyong/guoquanshangcheng/gqsc.js, tag=锅圈商城",
 	"13 8,12,16,18,20 * * * https://raw.githubusercontent.com/danchaofan12138/danchaofan/main/ziyong/wangyi/wyyx.js, tag=网易严选",
 	"50 8,20 * * * https://raw.githubusercontent.com/leafTheFish/DeathNote/main//kfx.js, tag=卡夫享",
+	"30 8 * * * https://raw.githubusercontent.com/ClydeTime/Quantumult/main/Script/Task/BiliBili.js, tag=B站每日等级任务, img-url=https://raw.githubusercontent.com/HuiDoY/Icon/main/mini/Color/bilibili.png",
 	]
 }
