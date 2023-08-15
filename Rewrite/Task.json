@@ -11,6 +11,6 @@
 	"50 8,20 * * * https://raw.githubusercontent.com/leafTheFish/DeathNote/main//kfx.js, tag=卡夫享",
 	"30 8 * * * https://raw.githubusercontent.com/ClydeTime/Quantumult/main/Script/Task/BiliBili.js, tag=B站每日等级任务, img-url=https://raw.githubusercontent.com/HuiDoY/Icon/main/mini/Color/bilibili.png",
 	"0 9 * * * https://raw.githubusercontent.com/ClydeTime/Quantumult/main/Script/Task/TieBa.js, tag=贴吧签到, img-url=https://raw.githubusercontent.com/HuiDoY/Icon/main/mini/Color/tieba.png",
-	"1 0 * * * https://raw.githubusercontent.com/wf021325/qx/master/task/ampDache.js, tag=高德地图签到",
+	"1 0 * * * https://raw.githubusercontent.com/wf021325/qx/master/task/ampDache.js, tag=高德地图签到, img-url=https://raw.githubusercontent.com/Crazy-Z7/Task/main/Image/IMG_0967.jpeg",
 	]
 }
