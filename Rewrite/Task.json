@@ -13,6 +13,5 @@
 	"0 9 * * * https://raw.githubusercontent.com/ClydeTime/Quantumult/main/Script/Task/TieBa.js, tag=贴吧签到, img-url=https://raw.githubusercontent.com/HuiDoY/Icon/main/mini/Color/tieba.png",
 	"1 0 * * * https://raw.githubusercontent.com/wf021325/qx/master/task/ampDache.js, tag=高德地图签到, img-url=https://raw.githubusercontent.com/Crazy-Z7/Task/main/Image/IMG_0967.jpeg",
 	"10 8 * * * https://raw.githubusercontent.com/Sliverkiss/GoodNight/master/Script/sxios.js, tag=松鼠ios",
-	"0 6 * * * https://raw.githubusercontent.com/Yuheng0101/X/main/Tasks/TXVLogDaliyVip.js, tag=糖心Vlog会员账号, img-url=https://txh022.com/icon/items/girl.png",
 	]
 }
